@@ -1,7 +1,7 @@
 ---
 title: "American_tacos"
 date: 2021-02-09T14:46:59-06:00
-draft: true
+draft: false
 ---
 
 [American Tacos: A History and Guide](https://bookshop.org/books/american-tacos-a-history-and-guide/9781477316528)
