@@ -4,7 +4,7 @@ date: 2021-02-09T14:46:59-06:00
 draft: false
 ---
 
-[American Tacos: A History and Guide](https://bookshop.org/books/american-tacos-a-history-and-guide/9781477316528)
+📖 [American Tacos: A History and Guide](https://bookshop.org/books/american-tacos-a-history-and-guide/9781477316528)
 
 I have been on a bit of a taco kick of late. Well, 'of late' may be an understatement. 5 years or so. It probably started with [Heavy Table's taco writeups](https://heavytable.com/cabeza-lengua-tripa-at-taco-taxi/). That evolved in to the [Minnesota Taco Atlas](https://www.growlermag.com/mn-taco-atlas/) (to which I made a few small contributions). Then Heavy Table came back (yay!) and continued their write up of tacos and [taco adjacent foods](https://heavytable.com/oaxacans-mormons-and-a-bag-of-chips-a-brief-history-of-the-walking-taco/).
 
